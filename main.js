@@ -1,5 +1,5 @@
 var firstNumber = document.querySelector ('#input1');
-console.dir (firstNumber);
+(firstNumber);
 
 var secondNumber = document.querySelector ('#input2');
 console.dir (secondNumber);
